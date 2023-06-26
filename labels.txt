@@ -1,0 +1,4 @@
+0 GattoVolpe
+1 Scuola
+2 Go
+3 Vuoto
